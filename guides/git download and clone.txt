@@ -1,0 +1,22 @@
+Git Download + Navigating the directory
+
+Go to this website:
+https://git-scm.com/downloads
+
+Hit Download and proceed through the installer.
+
+Now open either the terminal (MAC) or command prompt(windows).
+
+navigate through the terminal or command prompt with these two commands:
+1: cd
+2: cd ..
+
+The first will change directory to whatever you specify and the second will go backwards.
+
+Navigate to a folder you want to clone the repo in. Could be something like this:
+cd Desktop
+
+Finally just type:
+git clone https://github.com/JELambert/POS4764.git
+
+And the repo will download into the folder you specified!
