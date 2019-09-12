@@ -1,0 +1,36 @@
+Download Packages Guide
+
+Documentation: https://packaging.python.org/tutorials/installing-packages/
+
+
+Running from the command line/terminal versus ipython notebook (this includes jupyter or spyder).
+
+In cm/terminal you just need to issue the command.
+In ipython you need to precede the command with !
+
+
+What is Pip??
+Recursive acronym. PIP installs packages or Preferred installer program.
+
+This is an important package in itself that helps you install the other packages.
+
+First thing we want to do is check if you have it installed. (Probably do).
+
+pip --version
+or
+!pip --version
+
+If you have it installed perfect! If not try
+python -m ensurepip --default-pip
+
+
+How to download packages using Pip
+Mac:
+pip install geopandas
+
+PC:
+python -m pip install geopandas
+
+
+or within the notebook or spyder
+!pip install geopandas
