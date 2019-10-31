@@ -1,0 +1,33 @@
+asdf_id,v4composites_calibrated_201709.2013.sum,drugdata_categorical_201708.none.categorical_count,drugdata_categorical_201708.none.categorical_none,drugdata_categorical_201708.none.categorical_cannabis,drugdata_categorical_201708.none.categorical_coca_bush,drugdata_categorical_201708.none.categorical_opium,drugdata_categorical_201708.none.categorical_mix,ucdp_deaths_171.2014.sum,CCN_1,NAME_0,Shape_Area,VARNAME_1,ENGTYPE_1,NAME_1,ID_0,HASC_1,CCA_1,ID_1,TYPE_1,Shape_Length,NL_NAME_1,ISO
+0,1013.67006063,87353,87353,0,0,0,0,2.0,,Colombia,8.734401,,Commissiary,Amazonas,53,CO.AM,,1,Comisaría,23.77504,,COL
+1,151073.993896,51678,43210,0,8465,3,0,17.0,,Colombia,5.168365,,Department,Antioquia,53,CO.AN,,2,Departamento,19.141026,,COL
+2,11489.0693359,20725,9290,0,11435,0,0,28.0,,Colombia,2.071644,,Intendancy,Arauca,53,CO.AR,,3,Intendencia,7.906898,,COL
+3,54602.3710938,3647,3647,0,0,0,0,0.0,,Colombia,0.364899,,Department,Atlántico,53,CO.AT,,4,Departamento,3.285024,,COL
+4,52571.3701172,21386,8088,0,13298,0,0,0.0,,Colombia,2.139413,,Department,Bolívar,53,CO.BL,,5,Departamento,13.922045,,COL
+5,64905.0507812,19084,19084,0,0,0,0,0.0,,Colombia,1.908535,,Department,Boyacá,53,CO.BY,,6,Departamento,12.360546,,COL
+6,58830.1523438,20467,17710,0,2757,0,0,7.0,,Colombia,2.0458,,Department,Córdoba,53,CO.CO,,7,Departamento,8.312399,,COL
+7,34850.6992188,6157,2692,0,0,3465,0,0.0,,Colombia,0.616329,,Department,Caldas,53,CO.CL,,8,Departamento,5.458548,,COL
+8,8410.0,73269,45347,0,27879,41,2,5.0,,Colombia,7.324507,,Intendancy,Caquetá,53,CO.CQ,,9,Intendencia,17.014369,,COL
+9,45913.3515625,36404,36359,0,45,0,0,0.0,,Colombia,3.64081,,Intendancy,Casanare,53,CO.CS,,10,Intendencia,9.940841,,COL
+10,43499.7109375,23699,1642,0,5706,14773,1578,15.0,,Colombia,2.371395,,Department,Cauca,53,CO.CA,,11,Departamento,11.891561,,COL
+11,64495.9609375,18866,13315,0,0,5551,0,0.0,,Colombia,1.887295,El Cesar,Department,Cesar,53,CO.CE,,12,Departamento,9.655757,,COL
+12,4946.16012573,36953,36953,0,0,0,0,6.0,,Colombia,3.694846,,Department,Chocó,53,CO.CH,,13,Departamento,23.394558,,COL
+13,180695.15625,19923,19923,0,0,0,0,0.0,,Colombia,1.99299,,Department,Cundinamarca,53,CO.CU,,14,Departamento,8.582517,,COL
+14,492.399963379,55924,55924,0,0,0,0,NA,,Colombia,5.597307,Guania,Commissiary,Guainía,53,CO.GN,,15,Comisaría,17.404289,,COL
+15,1922.55004883,45186,30211,0,14975,0,0,0.0,,Colombia,4.518948,,Commissiary,Guaviare,53,CO.GV,,16,Comisaría,14.00469,,COL
+16,52760.9492188,16523,1776,0,405,13891,451,0.0,,Colombia,1.650928,,Department,Huila,53,CO.HU,,17,Departamento,8.377296,,COL
+17,40179.2304688,17393,10810,5837,0,746,0,0.0,,Colombia,1.740899,Guajira|Goagira|La Goajira,Department,La Guajira,53,CO.LG,,18,Departamento,14.893143,,COL
+18,44917.5507812,17791,17174,0,617,0,0,0.0,,Colombia,1.777863,La Magdalena,Department,Magdalena,53,CO.MA,,19,Departamento,10.302886,,COL
+19,67754.5664062,69408,28267,0,41137,4,0,25.0,,Colombia,6.94374,,Department,Meta,53,CO.ME,,20,Departamento,15.156743,,COL
+20,32619.1796875,25973,7342,0,9264,9139,228,16.399999976158142,,Colombia,2.596868,,Department,Nariño,53,CO.NA,,21,Departamento,11.947934,,COL
+21,42791.6484375,18705,8861,0,9844,0,0,6.0,,Colombia,1.870925,Santander del Norte,Department,Norte de Santander,53,CO.NS,,22,Departamento,8.763182,,COL
+22,17366.1289062,19529,11685,0,7800,44,0,0.0,,Colombia,1.952728,,Intendancy,Putumayo,53,CO.PU,,23,Intendencia,11.130595,,COL
+23,18367.9492188,1410,0,0,0,1410,0,0.0,,Colombia,0.141012,,Department,Quindío,53,CO.QD,,24,Departamento,1.876727,,COL
+24,28210.4804688,3299,1269,0,0,2030,0,0.0,,Colombia,0.329331,,Department,Risaralda,53,CO.RI,,25,Departamento,3.943389,,COL
+25,1277.2800293,46,46,0,0,0,0,NA,,Colombia,0.004362,Saint Andrew and Providence,Department,San Andrés y Providencia,53,CO.SA,,26,Departamento,0.846961,,COL
+26,94672.578125,24768,24768,0,0,0,0,1.0,,Colombia,2.476726,,Department,Santander,53,CO.ST,,27,Departamento,9.372878,,COL
+27,34974.9296875,8890,5669,0,3221,0,0,8.0,,Colombia,0.888843,,Department,Sucre,53,CO.SU,,28,Departamento,6.887683,,COL
+28,69998.0546875,19061,6994,0,0,12067,0,11.0,,Colombia,1.906482,,Department,Tolima,53,CO.TO,,29,Departamento,7.699065,,COL
+29,142465.890625,17908,6955,0,720,10048,185,3.0,,Colombia,1.791487,Valle,Department,Valle del Cauca,53,CO.VC,,30,Departamento,16.179572,,COL
+30,359.0,43265,39716,0,3549,0,0,0.0,,Colombia,4.326031,,Commissiary,Vaupés,53,CO.VP,,31,Comisaría,15.362617,,COL
+31,1997.05999756,82164,60250,0,21914,0,0,NA,,Colombia,8.212899,,Commissiary,Vichada,53,CO.VD,,32,Comisaría,16.093094,,COL
