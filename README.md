@@ -11,8 +11,8 @@ Two basic methods for cloning (downloading) this folder and all of the contents 
 Once cloned the labs are generally self-contained.
 
 ### Sources
-A number of sources are used throughout the labs.  The data stored within the labs from these sources is in no way intended to be used for redistribution purposes beyond the self-contained educational labs.  Data manipulation and analysis is not intended to be for research or profit purposes.
-\\
+Various sources are used throughout the labs.  The data stored within the labs from these sources is in no way intended to be used for redistribution purposes beyond the self-contained educational labs.  Data manipulation and analysis is not distributed for research or profit purposes.
+
 * GADM shapefiles https://gadm.org/
 * Psychological Characteristics of Leaders (PsyCL): Introducing a New Data Set, Mark Schafer and Joshua E. Lambert, *Under Review*. http://psycldataset.com/
 * Food and Agriculture Organization of the United Nations (FAO) (2017)
