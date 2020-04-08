@@ -1,0 +1,244 @@
+stateabb,ccode,statenme,GEO,_ISO3N_
+USA,2,United States of America,Northern America,840
+CAN,20,Canada,Northern America,124
+BHM,31,Bahamas,Caribbean,44
+CUB,40,Cuba,Caribbean,192
+CUB,40,Cuba,Caribbean,192
+HAI,41,Haiti,Caribbean,332
+HAI,41,Haiti,Caribbean,332
+DOM,42,Dominican Republic,Caribbean,214
+DOM,42,Dominican Republic,Caribbean,214
+JAM,51,Jamaica,Caribbean,388
+TRI,52,Trinidad and Tobago,Caribbean,780
+BAR,53,Barbados,Caribbean,52
+DMA,54,Dominica,Caribbean,212
+GRN,55,Grenada,Caribbean,308
+SLU,56,St. Lucia,Caribbean,662
+SVG,57,St. Vincent and the Grenadines,Caribbean,670
+AAB,58,Antigua & Barbuda,Caribbean,28
+SKN,60,St. Kitts and Nevis,Caribbean,659
+MEX,70,Mexico,Central America,484
+BLZ,80,Belize,Central America,84
+GUA,90,Guatemala,Central America,320
+HON,91,Honduras,Central America,340
+SAL,92,El Salvador,Central America,222
+NIC,93,Nicaragua,Central America,558
+COS,94,Costa Rica,Central America,188
+PAN,95,Panama,Central America,591
+COL,100,Colombia,South America,170
+VEN,101,Venezuela,South America,862
+GUY,110,Guyana,South America,328
+SUR,115,Suriname,South America,740
+ECU,130,Ecuador,South America,218
+PER,135,Peru,South America,604
+BRA,140,Brazil,South America,76
+BOL,145,Bolivia,South America,68
+PAR,150,Paraguay,South America,600
+PAR,150,Paraguay,South America,600
+CHL,155,Chile,South America,152
+ARG,160,Argentina,South America,32
+URU,165,Uruguay,South America,858
+UKG,200,United Kingdom,Northern Europe,826
+IRE,205,Ireland,Northern Europe,372
+NTH,210,Netherlands,Western Europe,528
+NTH,210,Netherlands,Western Europe,528
+BEL,211,Belgium,Western Europe,56
+BEL,211,Belgium,Western Europe,56
+LUX,212,Luxembourg,Western Europe,442
+LUX,212,Luxembourg,Western Europe,442
+FRN,220,France,Western Europe,250
+FRN,220,France,Western Europe,250
+MNC,221,Monaco,Western Europe,492
+LIE,223,Liechtenstein,Western Europe,438
+SWZ,225,Switzerland,Western Europe,756
+SPN,230,Spain,Southern Europe,724
+AND,232,Andorra,Southern Europe,20
+POR,235,Portugal,Southern Europe,620
+HAN,240,Hanover,,
+BAV,245,Bavaria,,
+GMY,255,Germany,Western Europe,276
+GMY,255,Germany,Western Europe,276
+GFR,260,German Federal Republic,Western Europe,
+GDR,265,German Democratic Republic,,278
+BAD,267,Baden,,
+SAX,269,Saxony,,
+WRT,271,Wuerttemburg,,
+HSE,273,Hesse Electoral,,
+HSG,275,Hesse Grand Ducal,,
+MEC,280,Mecklenburg Schwerin,,
+POL,290,Poland,Eastern Europe,616
+POL,290,Poland,Eastern Europe,616
+AUH,300,Austria-Hungary,,
+AUS,305,Austria,Western Europe,40
+AUS,305,Austria,Western Europe,40
+HUN,310,Hungary,Eastern Europe,348
+CZE,315,Czechoslovakia,,200
+CZE,315,Czechoslovakia,,200
+CZR,316,Czech Republic,Eastern Europe,203
+SLO,317,Slovakia,Eastern Europe,703
+ITA,325,Italy,Southern Europe,380
+PAP,327,Papal States,Southern Europe,336
+SIC,329,Two Sicilies,,
+SNM,331,San Marino,Southern Europe,674
+MOD,332,Modena,,
+PMA,335,Parma,,
+TUS,337,Tuscany,,
+MLT,338,Malta,Southern Europe,470
+ALB,339,Albania,Southern Europe,8
+ALB,339,Albania,Southern Europe,8
+MNG,341,Montenegro,,499
+MAC,343,Macedonia,Southern Europe,807
+CRO,344,Croatia,Southern Europe,191
+YUG,345,Yugoslavia,Southern Europe,890
+YUG,345,Yugoslavia,Southern Europe,890
+BOS,346,Bosnia and Herzegovina,Southern Europe,70
+KOS,347,Kosovo,,
+SLV,349,Slovenia,Southern Europe,705
+GRC,350,Greece,Southern Europe,300
+GRC,350,Greece,Southern Europe,300
+CYP,352,Cyprus,Western Asia,196
+BUL,355,Bulgaria,Eastern Europe,100
+MLD,359,Moldova,Eastern Europe,498
+ROM,360,Romania,Eastern Europe,642
+RUS,365,Russia,Eastern Europe,810
+EST,366,Estonia,Northern Europe,233
+EST,366,Estonia,Northern Europe,233
+LAT,367,Latvia,Northern Europe,428
+LAT,367,Latvia,Northern Europe,428
+LIT,368,Lithuania,Northern Europe,440
+LIT,368,Lithuania,Northern Europe,440
+UKR,369,Ukraine,Eastern Europe,804
+BLR,370,Belarus,Eastern Europe,112
+ARM,371,Armenia,Western Asia,51
+GRG,372,Georgia,Western Asia,268
+AZE,373,Azerbaijan,Western Asia,31
+FIN,375,Finland,Northern Europe,246
+SWD,380,Sweden,Northern Europe,752
+NOR,385,Norway,Northern Europe,578
+NOR,385,Norway,Northern Europe,578
+DEN,390,Denmark,Northern Europe,208
+DEN,390,Denmark,Northern Europe,208
+ICE,395,Iceland,Northern Europe,352
+CAP,402,Cape Verde,Western Africa,132
+STP,403,Sao Tome and Principe,Middle Africa,678
+GNB,404,Guinea-Bissau,Western Africa,624
+EQG,411,Equatorial Guinea,Middle Africa,226
+GAM,420,Gambia,Western Africa,270
+MLI,432,Mali,Western Africa,466
+SEN,433,Senegal,Western Africa,686
+BEN,434,Benin,Western Africa,204
+MAA,435,Mauritania,Western Africa,478
+NIR,436,Niger,Western Africa,562
+CDI,437,Ivory Coast,Western Africa,384
+GUI,438,Guinea,Western Africa,324
+BFO,439,Burkina Faso,Western Africa,854
+LBR,450,Liberia,Western Africa,430
+SIE,451,Sierra Leone,Western Africa,694
+GHA,452,Ghana,Western Africa,288
+TOG,461,Togo,Western Africa,768
+CAO,471,Cameroon,Middle Africa,120
+NIG,475,Nigeria,Western Africa,566
+GAB,481,Gabon,Middle Africa,266
+CEN,482,Central African Republic,Middle Africa,140
+CHA,483,Chad,Middle Africa,148
+CON,484,Congo,Middle Africa,178
+DRC,490,Democratic Republic of the Congo,Middle Africa,180
+UGA,500,Uganda,Eastern Africa,800
+KEN,501,Kenya,Eastern Africa,404
+TAZ,510,Tanzania,Eastern Africa,834
+ZAN,511,Zanzibar,,836
+BUI,516,Burundi,Eastern Africa,108
+RWA,517,Rwanda,Eastern Africa,646
+SOM,520,Somalia,Eastern Africa,706
+DJI,522,Djibouti,Eastern Africa,262
+ETH,530,Ethiopia,Eastern Africa,231
+ETH,530,Ethiopia,Eastern Africa,231
+ERI,531,Eritrea,Eastern Africa,232
+ANG,540,Angola,Middle Africa,24
+MZM,541,Mozambique,Eastern Africa,508
+ZAM,551,Zambia,Eastern Africa,894
+ZIM,552,Zimbabwe,Eastern Africa,716
+MAW,553,Malawi,Eastern Africa,454
+SAF,560,South Africa,Southern Africa,710
+NAM,565,Namibia,Southern Africa,516
+LES,570,Lesotho,Southern Africa,426
+BOT,571,Botswana,Southern Africa,72
+SWA,572,Swaziland,Southern Africa,748
+MAG,580,Madagascar,Eastern Africa,450
+COM,581,Comoros,Eastern Africa,174
+MAS,590,Mauritius,Eastern Africa,480
+SEY,591,Seychelles,Eastern Africa,690
+MOR,600,Morocco,Northern Africa,504
+MOR,600,Morocco,Northern Africa,504
+ALG,615,Algeria,Northern Africa,12
+TUN,616,Tunisia,Northern Africa,788
+TUN,616,Tunisia,Northern Africa,788
+LIB,620,Libya,Northern Africa,434
+SUD,625,Sudan,Northern Africa,736
+SSD,626,South Sudan,,
+IRN,630,Iran,Southern Asia,364
+TUR,640,Turkey,Western Asia,792
+IRQ,645,Iraq,Western Asia,368
+EGY,651,Egypt,Northern Africa,818
+EGY,651,Egypt,Northern Africa,818
+SYR,652,Syria,Western Asia,760
+SYR,652,Syria,Western Asia,760
+LEB,660,Lebanon,Western Asia,422
+JOR,663,Jordan,Western Asia,400
+ISR,666,Israel,Western Asia,376
+SAU,670,Saudi Arabia,Western Asia,682
+YAR,678,Yemen Arab Republic,,886
+YEM,679,Yemen,Western Asia,887
+YPR,680,Yemen People's Republic,,720
+KUW,690,Kuwait,Western Asia,414
+BAH,692,Bahrain,Western Asia,48
+QAT,694,Qatar,Western Asia,634
+UAE,696,United Arab Emirates,Western Asia,784
+OMA,698,Oman,Western Asia,512
+AFG,700,Afghanistan,Southern Asia,4
+TKM,701,Turkmenistan,Central Asia,795
+TAJ,702,Tajikistan,Central Asia,762
+KYR,703,Kyrgyzstan,Central Asia,417
+UZB,704,Uzbekistan,Central Asia,860
+KZK,705,Kazakhstan,Central Asia,398
+CHN,710,China,Eastern Asia,156
+MON,712,Mongolia,Eastern Asia,496
+TAW,713,Taiwan,,158
+KOR,730,Korea,Eastern Asia,
+PRK,731,North Korea,Eastern Asia,408
+ROK,732,South Korea,Eastern Asia,410
+JPN,740,Japan,Eastern Asia,392
+JPN,740,Japan,Eastern Asia,392
+IND,750,India,Southern Asia,356
+BHU,760,Bhutan,Southern Asia,64
+PAK,770,Pakistan,Southern Asia,586
+BNG,771,Bangladesh,Southern Asia,50
+MYA,775,Myanmar,South-Eastern Asia,104
+SRI,780,Sri Lanka,Southern Asia,144
+MAD,781,Maldives,Southern Asia,462
+NEP,790,Nepal,Southern Asia,524
+THI,800,Thailand,South-Eastern Asia,764
+CAM,811,Cambodia,South-Eastern Asia,116
+LAO,812,Laos,South-Eastern Asia,418
+DRV,816,Vietnam,South-Eastern Asia,704
+RVN,817,Republic of Vietnam,,868
+MAL,820,Malaysia,South-Eastern Asia,458
+SIN,830,Singapore,South-Eastern Asia,702
+BRU,835,Brunei,South-Eastern Asia,96
+PHI,840,Philippines,South-Eastern Asia,608
+INS,850,Indonesia,South-Eastern Asia,360
+ETM,860,East Timor,South-Eastern Asia,626
+AUL,900,Australia,Australia and New Zealand,36
+PNG,910,Papua New Guinea,Melanesia,598
+NEW,920,New Zealand,Australia and New Zealand,554
+VAN,935,Vanuatu,Melanesia,548
+SOL,940,Solomon Islands,Melanesia,90
+KIR,946,Kiribati,Micronesia,296
+TUV,947,Tuvalu,Polynesia,798
+FIJ,950,Fiji,Melanesia,242
+TON,955,Tonga,Polynesia,776
+NAU,970,Nauru,Micronesia,520
+MSI,983,Marshall Islands,Micronesia,584
+PAL,986,Palau,Micronesia,585
+FSM,987,Federated States of Micronesia,Micronesia,583
+WSM,990,Samoa,Polynesia,882
